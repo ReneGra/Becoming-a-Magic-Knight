@@ -1,0 +1,109 @@
+html{ background-image:url("https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2018/02/Black_Cover_Screenshot_0004.jpg");
+}
+
+em{
+    color:green;
+}
+
+.treasure{
+    background-image: url("https://wallpaperaccess.com/full/481679.jpg");
+    margin:5px;
+	padding:10px;
+    color:white;
+        border: 4px yellow solid;}
+
+.yesb, .yesb2, .nob, .nob2{
+    height:40px;
+    width:50px;
+    color:white;
+    background-color:gray;}
+
+.message-1{
+    border:solid white 2px;
+    background-color:#562032;
+    color:white;}
+
+.message-2{
+    border:solid white 2px;
+    background-color:#562032;
+    color:white;}
+
+.message-3{
+    border:solid white 2px;
+    background-color:#562032;
+    color:white;
+	font-size:18px;}
+
+.message-4{
+    border:solid white 2px;
+    background-color:#562032;
+    color:white;}
+
+.message-5{
+    border:solid white 2px;
+    background-color:#562032;
+    color:white;}
+
+.message-6{
+    border:solid white 2px;
+    background-color:#cc9966;
+    color:white;
+	margin:10px;
+	padding:10px;}
+
+img{
+    border:white solid 2px;}
+
+body {
+    color: #DBF3FA;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 30px;
+    background-color: #722F37;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button, .start-button2, .start-button3{
+    height: 40px;
+    color:white;
+    background-color:gray;
+}
+.restart{
+    height:30px;
+    width:70px;
+    color:yellow;
+    background-color:black;}
+
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
